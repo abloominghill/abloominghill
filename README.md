@@ -1,9 +1,9 @@
 <p align="center" width="300">
-   <img align="center" width="1000" src="https://i.pinimg.com/564x/2e/48/c4/2e48c473e374c2093e47178d8953f478.jpg" />
+   <img align="center" width="1000" src="https://github.com/abloominghill/abloominghill/blob/584536508d3ce203d445d32d5d756e7044bc5c95/imagen_1.svg" />
    <h3 align="center"> Hi, I'm Hillary! <img src="https://media.giphy.com/media/daU84afaTNkHoozNI4/giphy.gif" width="50"> Welcome to my Github!  <img src="https://media.giphy.com/media/Ts04d5yw9jJI4qBUFE/giphy.gif" width="30"> </h3>
 
 </p>
-
+<p align="center">I'm from Colombia.<br />
 
 <p align="center">
    <a href="https://twitch.tv/midudev" target="blank" style='margin-right:4px'>
