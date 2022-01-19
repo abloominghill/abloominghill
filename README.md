@@ -1,11 +1,10 @@
 <p align="center" width="300">
-   <img align="center" width="200" src="https://i.pinimg.com/564x/bf/3a/3b/bf3a3b807d311090c65b1897d48c6852.jpg" />
+   <img align="center" width="1000" src="https://i.pinimg.com/564x/2e/48/c4/2e48c473e374c2093e47178d8953f478.jpg" />
    <h3 align="center"> Hi, I'm Hillary! <img src="https://media.giphy.com/media/daU84afaTNkHoozNI4/giphy.gif" width="50"> Welcome to my Github!  <img src="https://media.giphy.com/media/Ts04d5yw9jJI4qBUFE/giphy.gif" width="30"> </h3>
 
 </p>
 
 
-<p align="center">Soy <strong>Desarrollador JavaScript Full Stack</strong> con 10 años experiencia.<br />¡Revisa mi contenido 👇!</p>
 <p align="center">
    <a href="https://twitch.tv/midudev" target="blank" style='margin-right:4px'>
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitch.svg" alt="midudev" height="28px" width="28px" />
