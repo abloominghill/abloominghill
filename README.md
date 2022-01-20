@@ -21,7 +21,9 @@
    
 <p align="center" width="300">
       <h4 align="center"> Licenses and certifications: </h4> </p>
-   
+<p align="center" width="300">
+   - <a href="https://www.coursera.org/account/accomplishments/certificate/JNSPBKUZBPA3">Introducción a la programación con Python</a> | Coursera | Dec 2021</br>
+   - <a href="https://drive.google.com/file/d/1qoNRKBOkPKhBfKLkg7m3IKlHfvGrVWik/view?usp=drivesdk">Introduction to Python</a> | DataCamp | Dec 2021</br>
 
 
 ### <img src="https://media1.giphy.com/media/S8OQLy0oRA2NXODcsf/giphy.gif?cid=ecf05e472rba4j8cg3pt08blvo3anejk1n966dts3p8390nr&rid=giphy.gif&ct=s" width="70"> Fun facts about me.  
