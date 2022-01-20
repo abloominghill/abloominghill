@@ -1,5 +1,5 @@
 <p align="center" width="300">
-   <img align="center" width="1000" src="https://github.com/abloominghill/abloominghill/blob/2021755891b1ed3f42dd5054c3d242ab11ffbb3a/imagen_1.svg" />
+   <img align="center" width="1000" src="https://github.com/abloominghill/abloominghill/blob/47eacc6f04a78c34b88527bc13a2a5b0100fa55a/imagen_2.svg" />
    <h3 align="center"> Hi, I'm Hillary! <img src="https://media.giphy.com/media/daU84afaTNkHoozNI4/giphy.gif" width="50"> Welcome to my Github!  <img src="https://media.giphy.com/media/Ts04d5yw9jJI4qBUFE/giphy.gif" width="30"> </h3>
 
 </p>
