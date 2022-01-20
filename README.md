@@ -7,8 +7,21 @@
 <p align="center" >My name is Hillary but my friends call me Hill. <br /> I'm from Colombia, I'm 22 years old and I'm currently finishing my Mining Engineering degree. <br /> Now, I'm doing my internship at a mining technology company.<br /> Also, I'm self-studying Data Science and English. <br /> </p>
 
 <p align="center" width="300">
-   <h4>Tools I'm learning:</h4> Python | SQL | Power Bi  
-  </p>
+   <img align="center" width="60" src="https://media4.giphy.com/media/1wptBhqkNgW3RwKz8g/giphy.gif?cid=790b76112eb5ec6ad7bcc5a383d48f468952f76d52283558&rid=giphy.gif&ct=s" />
+</p>
+
+<p align="center" width="300">
+      <h4 align="center"> Tools I'm learning: </h4> </p>
+<p align="center" width="300">
+   <align="center"> Python | SQL | Power Bi </p>
+
+<p align="center" width="300">
+   <img align="center" width="60" src="https://media1.giphy.com/media/TJ9cPR4x4ANqsZqogT/giphy.gif?cid=790b76113cf44b20dcc0a659620891ef4d622edf5f8b6a38&rid=giphy.gif&ct=s" />
+</p>   
+   
+<p align="center" width="300">
+      <h4 align="center"> Licenses and certifications: </h4> </p>
+   
 
 
 ### <img src="https://media1.giphy.com/media/S8OQLy0oRA2NXODcsf/giphy.gif?cid=ecf05e472rba4j8cg3pt08blvo3anejk1n966dts3p8390nr&rid=giphy.gif&ct=s" width="70"> Fun facts about me.  
