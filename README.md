@@ -25,7 +25,7 @@ Some fun facts about me:<br>
 </p>
       
 
-<h4 align="center"> Thanks for visiting my page! <img src="https://media2.giphy.com/media/0ZPqy0v1dIzHRNUQpR/giphy.gif?cid=ecf05e479d0tqv4d5z4511mj1awq3m8lon24dtmrs60o50ai&rid=giphy.gif&ct=s" width="70"></h4>
+<h4 align="center"> Thanks for visiting my page! <img src="https://media1.giphy.com/media/egY34lzjJ0pni2P9Ma/giphy.gif?cid=790b76118acaadd6e181074c543e354203e5a8a714d51bd8&rid=giphy.gif&ct=s" width="25"></h4>
       
 <p align="center"><img align="center" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=abloominghill&repo=abloominghill&countColor&countColor&countColor=#4A5FAF" width="98"/>   
       
