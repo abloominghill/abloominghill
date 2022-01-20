@@ -31,13 +31,13 @@ Some fun facts about me:<br>
       
 <h5 align="center">Feel free to connect with me <img src="https://media.giphy.com/media/Yq2i0ppH5InKExkg4N/giphy.gif" width="50"></h5>
 <p align="center">
-   <a href="https://www.linkedin.com/in/hillarymd/" target="blank" style='margin-right:4px'><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="midudev" height="28px" width="28px" />   </a>
+   <a href="https://www.linkedin.com/in/hillarymd/" target="blank" style='margin-right:4px'><img align="center" src="https://cdn-icons-png.flaticon.com/512/145/145807.png" alt="midudev" height="28px" width="28px" />   </a>
       <a href="https://twitter.com/abloominghill_" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="midudev" height="28px" width="28px" />
+    <img align="center" src="https://cdn-icons-png.flaticon.com/512/179/179342.png" alt="midudev" height="28px" width="28px" />
   </a>
-   <a href="https://www.hackerrank.com/abloominghill" target="blank"> <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="midu.dev" height="28px" width="28px" />
+   <a href="https://www.hackerrank.com/abloominghill" target="blank"> <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/HackerRank_logo.png/768px-HackerRank_logo.png" alt="midu.dev" height="28px" width="28px" />
   </a> 
-    <a href="https://www.sololearn.com/profile/24317673" target="blank"> <img align="center" src="https://github.com/abloominghill/abloominghill/blob/aeb66205be29605f48d893c1d8cbb2797ce3b567/imagen_3.svg" alt="midu.dev" height="28px" width="28px" />
+    <a href="https://www.sololearn.com/profile/24317673" target="blank"> <img align="center" src="https://iconape.com/wp-content/png_logo_vector/sololearn.png" alt="midu.dev" height="28px" width="28px" />
   </a>
    
 </p>
