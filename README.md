@@ -12,7 +12,7 @@
 </p>
 
 <p align="center" width="300">
-      <h4 align="center"> Tools I'm learning: </h4> </p>
+      <h4 align="center"> <b>Tools I'm learning: </h4></b> </p>
 <p align="center" width="300">
    <align="center"> Python | Jupyter |  SQL | Power Bi   </p>
 
