@@ -25,7 +25,7 @@ Some fun facts about me:<br>
 </p>
       
 
-<h4 align="center"> Thanks for visiting my page! <img src="https://media2.giphy.com/media/0ZPqy0v1dIzHRNUQpR/giphy.gif?cid=ecf05e479d0tqv4d5z4511mj1awq3m8lon24dtmrs60o50ai&rid=giphy.gif&ct=s" width="70"></h4><br />
+<p align="center"> Thanks for visiting my page! <img src="https://media2.giphy.com/media/0ZPqy0v1dIzHRNUQpR/giphy.gif?cid=ecf05e479d0tqv4d5z4511mj1awq3m8lon24dtmrs60o50ai&rid=giphy.gif&ct=s" width="70"></9><br />
       
 ---
       
