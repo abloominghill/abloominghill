@@ -37,7 +37,7 @@ Some fun facts about me:<br>
       <a href="https://twitter.com/abloominghill_" target="blank">
     <img align="center" src="https://cdn-icons-png.flaticon.com/512/179/179342.png" alt="midudev" height="28px" width="28px" />
   </a>
-   <a href="https://www.hackerrank.com/abloominghill" target="blank"> <img align="center" src="https://github.com/abloominghill/abloominghill/blob/1b6acbb32c644ffe49f9996441960d6021ce14d7/imagen_3.svg" alt="midu.dev" height="29px" width="29px" />
+   <a href="https://www.hackerrank.com/abloominghill" target="blank"> <img align="center" src="https://github.com/abloominghill/abloominghill/blob/0d55d161b4630147e5a381f881c0796b8babccf1/imagen_4.svg" alt="midu.dev" height="29px" width="29px" />
   </a> 
     <a href="https://www.sololearn.com/profile/24317673" target="blank"> <img align="center" src="https://iconape.com/wp-content/png_logo_vector/sololearn.png" alt="midu.dev" height="28px" width="28px" />
   </a>
