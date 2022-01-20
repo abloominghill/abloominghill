@@ -41,6 +41,7 @@ Some fun facts about me:<br>
   </a> 
     <a href="https://www.sololearn.com/profile/24317673" target="blank"> <img align="center" src="https://github.com/abloominghill/abloominghill/blob/1980e52c04eeafcf498211b6780fffc283b07c20/imagen_5.svg" alt="midu.dev" height="28px" width="28px" />
   </a>
-   
+      <a href="https://www.instagram.com/abloominghill/" target="blank"> <img align="center" src="https://github.com/abloominghill/abloominghill/blob/509898634141242ff73503a08e1d9f4f4de4649e/imagen_6.svg" alt="midu.dev" height="28px" width="28px" />
+  </a>
 </p>
 
