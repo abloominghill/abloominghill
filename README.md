@@ -30,7 +30,7 @@ Some fun facts about me:<br>
 <p align="center"><img align="center" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=abloominghill&repo=abloominghill&countColor&countColor&countColor=#4A5FAF" width="98"/>   
       
 ---
-      
+       
 <h5 align="center">Feel free to connect with me <img src="https://media.giphy.com/media/Yq2i0ppH5InKExkg4N/giphy.gif" width="50"></h5>
 <p align="center">
    <a href="https://www.linkedin.com/in/hillarymd/" target="blank" style='margin-right:4px'><img align="center" src="https://cdn-icons-png.flaticon.com/512/145/145807.png" alt="midudev" height="28px" width="28px" />   </a>
