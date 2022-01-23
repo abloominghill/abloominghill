@@ -39,5 +39,7 @@ Some fun facts about me:<br>
   </a>
    <a href="https://www.hackerrank.com/abloominghill" target="blank"> <img align="center" src="https://github.com/abloominghill/abloominghill/blob/0d55d161b4630147e5a381f881c0796b8babccf1/imagen_4.svg" alt="midu.dev" height="29px" width="29px" />
   </a> 
+    <a href="https://www.instagram.com/abloominghill/" target="blank"> <img align="center" src="https://github.com/abloominghill/abloominghill/blob/509898634141242ff73503a08e1d9f4f4de4649e/imagen_6.svg" alt="midu.dev" height="28px" width="28px" />
+  </a>
 </p>
 
