@@ -1,8 +1,8 @@
 <p align="center" width="300">
       <h2 align="center"> Welcome to my Github! <img src="https://media.giphy.com/media/daU84afaTNkHoozNI4/giphy.gif" width="50">  <img src="https://media.giphy.com/media/Ts04d5yw9jJI4qBUFE/giphy.gif" width="30"> </h2>
 </p>
-<p align="right" width="300">
-<img width="400" align="right" alt="Github" src="https://github.com/abloominghill/abloominghill/blob/fe3b3dcbb758ed9413b038cabf8b50351b0b9229/2dac3ea5996bf84e0a1e0d12300c7d56.jpg" />
+<p align="right">
+<img width="350" align="right" src="https://github.com/abloominghill/abloominghill/blob/fe3b3dcbb758ed9413b038cabf8b50351b0b9229/2dac3ea5996bf84e0a1e0d12300c7d56.jpg" />
 </p>
 
 
