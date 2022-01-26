@@ -11,8 +11,8 @@
   Python | SQL | Power Bi<br><br>
    <img align="center" width="45" src="https://media3.giphy.com/media/ALMAOMdzibUWZtfdX7/200w.webp?cid=ecf05e4705rttzyh32ia75q7zsglq46q8j8ogojhs96w5hmr&rid=200w.webp&ct=s"/><br>
  My GitHub Status:<br>
- <img width="400" src="https://github-readme-stats.vercel.app/api?username=abloominghill&show_icons=true&title_color=262B37&icon_color=FF5757&text_color=262B37">
- <img width="335" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=abloominghill&show_icons=true&layout=compact&title_color=262B37&icon_color=FF5757&text_color=262B37"><br><br>     
+ <img width="350" src="https://github-readme-stats.vercel.app/api?username=abloominghill&show_icons=true&title_color=262B37&icon_color=FF5757&text_color=262B37">
+ <img width="285" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=abloominghill&show_icons=true&layout=compact&title_color=262B37&icon_color=FF5757&text_color=262B37"><br><br>     
   <samp>
 </p>
       
