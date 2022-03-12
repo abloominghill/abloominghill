@@ -1,5 +1,5 @@
 <p align="center" width="300">
-      <h2 align="center"> Welcome to my Github! <img src="https://media.giphy.com/media/daU84afaTNkHoozNI4/giphy.gif" width="50">  <img src="https://media.giphy.com/media/Ts04d5yw9jJI4qBUFE/giphy.gif" width="30"> </h2>
+      <h2> Welcome to my Github! <img src="https://media.giphy.com/media/daU84afaTNkHoozNI4/giphy.gif" width="45"><img src="https://media.giphy.com/media/Ts04d5yw9jJI4qBUFE/giphy.gif" width="25">   </h2>
 </p>
 <p align="right">
 <img width="1000" src="https://github.com/abloominghill/abloominghill/blob/bb956e6d73edb98561ce01e4c09f62bc20f5a7bb/Hi!%20I'm%20Hillary.png" />
