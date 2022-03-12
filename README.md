@@ -2,7 +2,7 @@
       <h2 align="center"> Welcome to my Github! <img src="https://media.giphy.com/media/daU84afaTNkHoozNI4/giphy.gif" width="50">  <img src="https://media.giphy.com/media/Ts04d5yw9jJI4qBUFE/giphy.gif" width="30"> </h2>
 </p>
 <p align="right">
-<img width="350" align="right" src="https://github.com/abloominghill/abloominghill/blob/fe3b3dcbb758ed9413b038cabf8b50351b0b9229/2dac3ea5996bf84e0a1e0d12300c7d56.jpg" />
+<img width="1000" src="https://github.com/abloominghill/abloominghill/blob/39ee2112240acd2c7f364eea578efaf8ada2ac0d/Hi!%20I'm%20Hillary.svg" />
 </p>
 
 
