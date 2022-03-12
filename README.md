@@ -23,6 +23,5 @@
       <a href="https://twitter.com/abloominghill_" target="blank">
     <img align="center" src="https://cdn-icons-png.flaticon.com/512/179/179342.png" alt="midudev" height="28px" width="28px" />
   </a>
-       <a href="https://www.instagram.com/abloominghill/" target="blank"> <img align="center" src="https://github.com/abloominghill/abloominghill/blob/509898634141242ff73503a08e1d9f4f4de4649e/imagen_6.svg" alt="midu.dev" height="28px" width="28px" />
-  </a>
+  
 
